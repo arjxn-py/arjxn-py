@@ -1,4 +1,4 @@
-## Hi there 👋 , I am Arjun Verma!
+## Hi there <img src="./Hi.gif" height="35px"> , I am Arjun Verma!
 ### Software Enthusiast, Open-source Contributor and a Passionate Learner
 
 Bachelors of Technology junior at Cluster Innovation Centre, University of Delhi, pursuing my major in Information Technology and Mathematical Innovation. In daylight, I work towards my academic skills and some formal commitments, and by night, I work on developing my tech-stack, implement my small ideas in the form of code, develop and maintain open-source projects, which I believe are the key to collaborative tech-dev.
