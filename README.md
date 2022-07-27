@@ -2,7 +2,8 @@
 ### Software Enthusiast, Open-source Contributor and a Passionate Learner From India
 
 Bachelors of Technology junior at Cluster Innovation Centre, University of Delhi, pursuing my major in Information Technology and Mathematical Innovation. In daylight, I work towards my academic skills and some formal commitments, and by night, I work on developing my tech-stack, implement my small ideas in the form of code, develop and maintain open-source projects, which I believe are the key to collaborative tech-dev.
-
+[![Linkedin: Arjun Verma](https://img.shields.io/badge/-Arjun%20Verma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saransh-cpp/)](https://www.linkedin.com/in/saransh-cpp/)
+[![Medium Badge](https://img.shields.io/badge/-@White%20Violin-black?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@WhiteViolin)](https://medium.com/@WhiteViolin)
 I am a Web/Software Developer and open source contributor passionate about technology and innovation including Artificial Intelligence & Blockchain Development & along with that I also have some experience in the domain of Deep Learning.
 
 ### My Tech-Stack
