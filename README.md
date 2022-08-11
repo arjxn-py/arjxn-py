@@ -11,7 +11,7 @@ And along with that I implement my small ideas in the form of code, develop and 
 
 I am an open source contributor passionate about technology and innovation including Artificial Intelligence & Blockchain Development & along with that I also have some experience in the domain of Deep Learning.
 
-<img src="./code.gif" height="350px">
+<img src="./code.gif" height="400px">
 
 ### My Tech-Stack
 
