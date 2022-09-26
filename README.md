@@ -1,5 +1,5 @@
 ## Hi there <img src="./Hi.gif" height="35px"> , I am Arjun!
-### Software Enthusiast, Open-source Contributor and a Passionate Learner From India
+### Web Developer, Open-source Contributor and a Passionate Learner From India
 
 [![Linkedin: Arjun Verma](https://img.shields.io/badge/-Arjun%20Verma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arjun-verma-758608226/)](https://www.linkedin.com/in/arjun-verma-758608226/)
 [![Twitter: Arjun Verma](https://img.shields.io/twitter/follow/ArjxnPy?style=social)](https://twitter.com/ArjxnPy)
