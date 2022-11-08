@@ -5,13 +5,13 @@
 [![Twitter: Arjun Verma](https://img.shields.io/twitter/follow/ArjxnPy?style=social)](https://twitter.com/ArjxnPy)
 [<img src="https://komarev.com/ghpvc/?username=arjxn-py" alt="Arjxn-Py" />](https://github.com/arjxn-py)
 
-Bachelors of Technology junior at Cluster Innovation Centre, University of Delhi, pursuing my major in Information Technology and Mathematical Innovation. Besides focusing on my academic skills and formal commitments, you can always find me working on developing my tech-stack and currently I am exploring MERN stack as I am commited to some projects related to Web Development. 
+Bachelors of Technology sophomore at Cluster Innovation Centre, University of Delhi, pursuing my major in Information Technology and Mathematical Innovation. Besides focusing on my academic skills and formal commitments, you can always find me working on developing my tech-stack and currently I am exploring MERN stack as I am commited to some projects related to Web Development. 
 And along with that I implement my small ideas in the form of code, develop and maintain open-source projects, which I believe are the key to collaborative tech-dev.
 <!--- In daylight, I work towards my academic skills and some formal commitments, and by night, I work on developing my tech-stack, implement my small ideas in the form of code, develop and maintain open-source projects, which I believe are the key to collaborative tech-dev. -->
 
 I am an open source contributor passionate about technology and innovation including Artificial Intelligence & Blockchain Development & along with that I also have some experience in the domain of Deep Learning.
 
-<img src="./code.gif" height="400px">
+<img src="./code.gif" height="350px">
 
 ### My Tech-Stack
 
