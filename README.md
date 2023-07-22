@@ -5,13 +5,13 @@
 [![Twitter: Arjun Verma](https://img.shields.io/twitter/follow/ArjxnPy?style=social)](https://twitter.com/ArjxnPy)
 [<img src="https://komarev.com/ghpvc/?username=arjxn-py" alt="Arjxn-Py" />](https://github.com/arjxn-py)
 
-Bachelors of Technology sophomore at Cluster Innovation Centre, University of Delhi, pursuing my major in Information Technology and Mathematical Innovation. Besides focusing on my academic skills and formal commitments, you can always find me working on developing my tech-stack and currently I am exploring MERN stack as I am commited to some projects related to Web Development. 
+Bachelors of Technology junior at Cluster Innovation Centre, University of Delhi, pursuing my major in Information Technology and Mathematical Innovation. Besides focusing on my academic skills and formal commitments, you can always find me working on developing my tech-stack and currently I am exploring MERN stack as I am commited to some projects related to Web Development. 
 And along with that I implement my small ideas in the form of code, develop and maintain open-source projects, which I believe are the key to collaborative tech-dev.
 <!--- In daylight, I work towards my academic skills and some formal commitments, and by night, I work on developing my tech-stack, implement my small ideas in the form of code, develop and maintain open-source projects, which I believe are the key to collaborative tech-dev. -->
 
 I am an open source contributor passionate about technology and innovation including Artificial Intelligence & Blockchain Development & along with that I also have some experience in the domain of Deep Learning.
 
-<img src="./code.gif" height="450px">
+<img src="./code.gif" height="350px">
 
 ### My Tech-Stack
 
@@ -33,9 +33,3 @@ Other Programming Languages I use for web dev :
 ![Badge](https://camo.githubusercontent.com/8701b4bd809549ff06fe4a2c3d71f5bf3d3c7dab7d69842f9244669725a7c7d3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7375626c696d655f746578742d2532333537353735372e7376673f267374796c653d666c6174266c6f676f3d7375626c696d652d74657874266c6f676f436f6c6f723d696d706f7274616e74)
 ![Badge](https://camo.githubusercontent.com/a8b6f4da82d06377c555de8affbcd5318f5e0be7eb88abab97c3130d1cade44a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4749542d4534344333303f7374796c653d666c6174266c6f676f3d676974266c6f676f436f6c6f723d7768697465)
 ![Badge](https://camo.githubusercontent.com/084c9f1ebe6a6be54fe329d3a1008906f19a14c658ba92f12e155ecf5b8c56cc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d61726b646f776e2d3030303030303f7374796c653d666c6174266c6f676f3d6d61726b646f776e266c6f676f436f6c6f723d7768697465)
-
-Other Tools I use for UI/UX : 
-![Badge](https://camo.githubusercontent.com/dfa29a1d428988204b85482be1e5b44a80e9ce024d525bbe5a5dbff7e7af9624/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4669676d612d4632344531453f7374796c653d666c6174266c6f676f3d6669676d61266c6f676f436f6c6f723d7768697465)
-![Badge](https://camo.githubusercontent.com/241937807511d98091e864e46867a31638ad7cce86eff7045c086c07b80b135c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f41646f626525323050686f746f73686f702d3331413846463f7374796c653d666c6174266c6f676f3d41646f626525323050686f746f73686f70266c6f676f436f6c6f723d626c61636b)
-
-[![@arjxnpy's Holopin board](https://holopin.io/api/user/board?user=arjxnpy)](https://holopin.io/@arjxnpy)
