@@ -10,7 +10,7 @@ And along with that I implement my small ideas in the form of code, develop and 
 <!--- In daylight, I work towards my academic skills and some formal commitments, and by night, I work on developing my tech-stack, implement my small ideas in the form of code, develop and maintain open-source projects, which I believe are the key to collaborative tech-dev. -->
 
 
-<img src="./code.gif" height="350px">
+<img src="./code.gif" height="450px">
 
 ### My Tech-Stack
 
